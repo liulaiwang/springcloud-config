@@ -1,2 +1,2 @@
-config-dev
-    11111
+config:
+    info: "hello world"
